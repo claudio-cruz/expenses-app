@@ -1,12 +1,10 @@
-
 import ExpenseList from './Components/ExpenseList';
 
 function App() {
   
-
   return (
     <div>
-      <h2>Let's get started!</h2>
+      <h2>Expenses App</h2>
       <ExpenseList/>
     </div>
   );
